@@ -1,1 +1,1 @@
-Original Souce: https://github.com/fireclint/portfolio-app-react
+Original Source: https://github.com/fireclint/portfolio-app-react
